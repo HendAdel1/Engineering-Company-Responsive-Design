@@ -7,4 +7,4 @@ Email: 1hend.adel1@gmail.com
 LinkedIn: www.linkedin.com/in/hend-adel
 
 
-![alt text](images/Design.jpeg)
+![alt text](images/design.jpg)
